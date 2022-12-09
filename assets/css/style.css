@@ -7,5 +7,27 @@
 
 }
 body {
-    font-family: lora;
+    font-family: Lora, abril;
+    font-weight: 400;  
+    color: black;
+}
+
+/* heading and logo */
+
+h1, h2 { 
+    font-family: Roboto condensed, Din;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    color: black;
+}
+
+#logo  {
+    float: left;
+    font-size: 300%;
+    
+    
+}
+
+body {
+    background-color: bisque;
 }
