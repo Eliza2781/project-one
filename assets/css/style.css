@@ -67,7 +67,23 @@ body {
 /* hero image */
 
 #hero-image {
-    height: 600px;
-    width: 50%;
-    background: url('../css/images/hero-image.webp') no-repeat center left;
+    height: 700px;
+    width: 100%;
+    background: url('../css/images/hero-image.webp') no-repeat center center;
 }
+
+/* treatment ethos */
+
+.left-about-heading {
+    padding: 50px;
+    width: 50%;
+    float: left;
+
+}
+
+hr {
+    border-bottom: 2px solid black; 
+    width: 40%;
+    margin: 1px 0; 
+}
+
