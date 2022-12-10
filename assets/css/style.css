@@ -63,3 +63,11 @@ body {
 
     border-bottom: 2px solid black;
 }
+
+/* hero image */
+
+#hero-image {
+    height: 600px;
+    width: 50%;
+    background: url('../css/images/hero-image.webp') no-repeat center left;
+}
