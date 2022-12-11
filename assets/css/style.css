@@ -96,3 +96,28 @@ table, th, td {
     letter-spacing: 1px;
 
 }
+
+/* footer */
+
+footer {
+    height: 100px;
+
+}
+
+.social-networks {
+    text-align: center;
+
+}
+
+.social-networks > li {
+    display: inline;
+
+}
+
+.social-networks i {
+
+    font-size: 170%;
+    margin: 2%;
+    padding: 4%;
+    color:black;
+}
