@@ -39,6 +39,8 @@ body {
     letter-spacing: 2px;
 }
 
+
+
 #menu, #logo {
     line-height: 80px;
 }
@@ -83,7 +85,14 @@ body {
 
 hr {
     border-bottom: 2px solid black; 
-    width: 40%;
+    width: 56%;
     margin: 1px 0; 
 }
 
+
+
+table, th, td {
+    padding: 0px;
+    letter-spacing: 1px;
+
+}
